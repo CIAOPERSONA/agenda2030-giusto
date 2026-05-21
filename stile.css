@@ -129,7 +129,7 @@ header {
   flex-wrap: wrap;
 }
 .footer-colonna {
-  max-width: 250px;
+  width: 250px;
 }
 
 .footer-colonna h3,
@@ -2364,11 +2364,6 @@ transform: translateY(-100px);
   .p-frase{
     font-size: 13px;
   }
-
-
-
-
-
 }
 
 
